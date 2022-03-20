@@ -186,6 +186,6 @@ body{
     height: 50px;
 
     top:28vh;
-    left:15vw;
+    left:15vw !important;
  
 }
