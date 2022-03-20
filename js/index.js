@@ -12,16 +12,10 @@ $(document).ready(function()
 
 
     var currentdata;
-    var currentdata2;
-
-
 
 
     alert("This project work host (ex: localhost)");
 
-
- 
-    
 
     $.get(url,function(data,status){
 
@@ -293,8 +287,6 @@ $(document).ready(function()
                 {
     
                 
-        
-    
                     otherday+=`
                     <div class="tempday">
                       <br>
