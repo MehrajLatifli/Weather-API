@@ -17,6 +17,7 @@ $(document).ready(function()
 
 
 
+    alert("This project work host (ex: localhost)");
 
 
  
